@@ -1,2 +1,2 @@
 # Xichen-s-Resume
-Hi 👋🏻 Welcome to Mint's resume !
+Hi 👋🏻 Welcome to Mint's resume!
