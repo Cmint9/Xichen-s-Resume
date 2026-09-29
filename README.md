@@ -1,5 +1,8 @@
 # Xichen-s-Resume
-Hi 👋🏻 Welcome to Mint's resume!
+Hi 👋🏻 Welcome to Xichen(Mint) Zhang's resume!
 
- <iframe src="Xichen_Zhang's resume(H).pdf" width="100%" height="600px"></iframe>
+# My Project Page
+
+Download project document: [ECE6001‑project.pdf](./assets/ECE6001‑project.pdf)
+
 
